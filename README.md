@@ -1,6 +1,5 @@
 # ml_projects
 In this repo I will post ml-projects which I had done. 
-https://static.streamlit.io/badges/streamlit_badge_black_white.svg
 
 1.Best_classifier - https://share.streamlit.io/rishimish/ml_projects/best_classifier.py
 
