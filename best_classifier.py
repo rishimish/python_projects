@@ -77,7 +77,7 @@ y_pred = clf.predict(X_test)
 
 acc = accuracy_score(y_test, y_pred)
 st.write(classifier_name)
-st.write("Accuracy", acc)   
+st.write("Accuracy", acc*100)   
 
 # plot
 pca = PCA(2)
