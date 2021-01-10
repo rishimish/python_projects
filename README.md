@@ -1,7 +1,7 @@
 # ml_projects
 In this repo I will post ml-projects which I had done. 
 
-1.Best_classifier - http://192.168.1.5:8504/  
+1.Best_classifier - https://share.streamlit.io/rishimish/ml_projects/best_classifier.py
 
 In this project i created an web app with streamlit, in which 3 famous ml datasets are used and 3 classifiers i.e KNN, SVM and random forests are used and accuracy is calculated
 
