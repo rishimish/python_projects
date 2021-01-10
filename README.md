@@ -1,6 +1,6 @@
 # ml_projects
 In this repo I will post ml-projects which I had done. 
-'''[![Streamlit App](https://static.streamlit.io/badges/st...)](https://share.streamlit.io/rishimish/ml_projects/best_classifier.py)'''
+'''[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rishimish/ml_projects/best_classifier.py)'''
 
 
 1.Best_classifier - https://share.streamlit.io/rishimish/ml_projects/best_classifier.py
